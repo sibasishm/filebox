@@ -17,4 +17,4 @@ const App = () => (
 	</div>
 );
 
-export {App}
+export { App };

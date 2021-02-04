@@ -1,24 +1,4 @@
 {
-  "grammarly.overrides": [
-    {
-      "files": [
-        "**/package.json"
-      ],
-      "config": {
-        "audience": "knowledgeable",
-        "dialect": "american",
-        "domain": "general",
-        "emotions": [
-          "neutral",
-          "optimistic",
-          "respectful"
-        ],
-        "goals": [
-          "inform",
-          "describe",
-          "tellStory"
-        ]
-      }
-    }
-  ]
+	"editor.quickSuggestions": { "strings": true },
+	"editor.autoClosingQuotes": "always"
 }
